@@ -31,5 +31,33 @@ let booleanCheck = Boolean(isLoggged)
 
 let sumNum = 24
 let sumNumStr = String(sumNum);
-console.log(typeof sumNumStr);
-console.log(sumNumStr);
+// console.log(typeof sumNumStr);
+// console.log(sumNumStr);
+
+
+// ************Operations******************
+
+let valu = 5 
+let negValue = -valu
+// console.log(negValue);
+
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+
+
+
+// console.log(5 + "6");
+// console.log("5" + 6);
+// console.log("5" + 6 + 6);
+// console.log(5 + 6 + "6");
+
+console.log( (3 + 4) * 5 % 3);
+
+
+// console.log(+true);
+// console.log(+"");
